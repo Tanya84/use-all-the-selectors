@@ -23,3 +23,14 @@ main{
 #types{
   color:#93a1a1;
 }
+
+.wrapper > .dfn; {
+  background-color: #b58900;
+}
+.dfn p + strong; {
+  color: #fff;
+}
+
+html mark{
+  background-color: #719e07;
+}
