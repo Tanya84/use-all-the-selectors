@@ -18,7 +18,7 @@ main{
 }
 
 #contents,#favs,#facts,#types {
-  color:#93a1a1;
+  color: #93a1a1;
 }
 
 .wrapper > .dfn; {
@@ -41,7 +41,7 @@ ol li:first-child {
 }
 
 ol li:last-child {
-  color:#2aa198;
+  color: #2aa198;
 }
 .types  li:nth-child(odd) {
   background-color: #657ba3;
