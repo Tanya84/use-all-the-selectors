@@ -34,3 +34,11 @@ main{
 html mark{
   background-color: #719e07;
 }
+
+[rel="external"] {
+background-color: #2694d8;
+}
+
+ol li:first-child {
+  color: #719e47;
+}
